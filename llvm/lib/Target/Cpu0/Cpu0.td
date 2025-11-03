@@ -1,0 +1,1 @@
+def Cpu0 : Target {}

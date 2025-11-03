@@ -1,0 +1,4 @@
+#ifndef LLVM_LIB_TARGET_CPU0_CPU0_H
+#define LLVM_LIB_TARGET_CPU0_CPU0_H
+
+#endif
